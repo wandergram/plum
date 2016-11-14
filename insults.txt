@@ -1,0 +1,40 @@
+Potential members of a future Elvish Union: Barrow-in-Furness, Blaenau Gwent, Welwyn Hatfield, Merthyr Tydfil, Stockton-on-Tees, Epping Forest, North Kesteven, Vale of White Horse, South Hams
+
+
+trip.passenger
+	%p= trip.inflt
+	%p= trip.infltdepapt
+	%p= trip.infltdept
+	%p= trip.infltarrapt
+	%p= trip.infltarrt
+	%p= trip.hotel
+	%p= trip.outflt
+	%p= trip.outfltdepapt
+	%p= trip.outfltdept
+	%p= trip.outfltarrapt
+	%p= trip.outfltarrt
+
+BuzzFeed did a mediocre job at this, so I tried to plug some of the gaps. 
+
+Things Scots Have Called Donald Trump on Twitter, Vol I:
+
+"Polyester cockwomble"
+"Toupeed fucktrumpet"
+"Floppy-haired nonce"
+"Leather-faced shit tobogganist"
+"Orange-dipped turdgoblin"
+"Incompressible jizztrumpet"
+"Weasel-headed fucknugget"
+"Mangled apricot hellbeast"
+"Tiny-fingered, Cheeto-faced, ferret-wearing shitgibbon"
+"Sentient enema"
+"Witless fucking cocksplat"
+"Absolute fucking doughnut"
+"Fuck-knuckle"
+"Bloviating flesh bag"
+"Bipedal wank splatter"
+"Custard flavored jobby"
+"Spoon"
+"Tit"
+"Weapons-grade plum"
+"Wankpuffin" <-- !!
